@@ -1,5 +1,5 @@
-# Akıllı Ürün Asistanı
-Bu proje, Hackathon 2025 için yapay zeka kullanılarak geliştirilmiş web tabanlı bir chatbottur. Kullanıcılara ürünler hakkında bilgi vermek, istenirse link vermek ve sorularını yanıtlamak amacıyla tasarlanmıştır.
+<h1 align="center">Akıllı Ürün Asistanı</h1>
+<p align="center"><b>Hackathon 2025 için yapay zeka kullanılarak geliştirilmiş web tabanlı bir chatbottur. Kullanıcılara ürünler hakkında bilgi vermek, istenirse link vermek ve sorularını yanıtlamak amacıyla tasarlanmıştır.</b></p>
 
 ## Özellikler
 * **Doğal Dil İşleme (NLP) Yeteneği:** Gelişmiş dil modelleri sayesinde, kullanıcıların metin tabanlı sorularını anlamlandırabilir ve bu sorulara bağlamına uygun, akıcı cevaplar üretebilir. Basit anahtar kelime eşleştirmesinden ziyade, cümlenin amacını ve niyetini kavrayarak daha doğal bir sohbet deneyimi sunar.
